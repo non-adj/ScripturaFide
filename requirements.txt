@@ -1,0 +1,11 @@
+Flask==*
+Django==*
+tensorflow==*
+torch==*
+nltk==*
+spacy==*
+psycopg2==*
+pymongo==*
+scikit-learn==*
+fastapi==*
+xgboost==*
